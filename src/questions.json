@@ -1,0 +1,197 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "question": "Who painted the mona lisa?",
+         "optionA": "Miguel Ángel",
+         "optionB": "Picasso",
+         "optionC": "Leonardo da Vinci",
+         "optionD": "Monet",
+         "answer": "Leonardo da Vinci"
+    },
+
+    {
+        "categoria": "Arte y literatura",
+        "question": "Writer of 'The old man and the sea '",
+         "optionA": "Jules Verne",
+         "optionB": "Ernest Hemingway",
+         "optionC": "Gabriel García Márquez",
+         "optionD": "Dan Brown",
+         "answer": "Ernest Hemingway"
+    },
+
+    {
+        "categoria": "Arte y literatura",
+        "question": "What does 'Mafalda' hate?", 
+        "optionA": "Her Mother", 
+        "optionB": "The Noise", 
+        "optionC": "The People", 
+        "optionD": "The Soup", 
+        "answer": "The Soup"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "question": "What is it that turns milk into yogurt?",
+         "optionA": "A Moss",
+         "optionB": "A Virus",
+         "optionC": "A bacterium",
+         "optionD": "The time",
+         "answer": "A bacterium"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "question": "How do you measure the force of the wind in the sea?",
+        "optionA": "Knots",
+        "optionB": "Feet",
+        "optionC": "Strides",
+        "optionD": "Kilometers per hour",
+        "answer": "Knots"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "question": "What is the chemical formula of water?",
+        "optionA": "H2O",
+        "optionB": "HO",
+        "optionC": "HO2",
+        "optionD": "Agu",
+        "answer": "H2O"
+    },
+
+    {
+        "categoria": "Historia",
+        "question": "What is celebrated on March 8?",
+        "optionA": "The Day of the Environment",
+        "optionB": "Labor Day",
+        "optionC": "The Women's Day",
+        "optionD": "Children's Day",
+        "answer": "The Women's Day"
+    },
+
+    {
+        "categoria": "Historia",
+        "question": "Where did philosophy come from?",
+        "optionA": "Japan",
+        "optionB": "Spain",
+        "optionC": "Egypt",
+        "optionD": "Greece",
+        "answer": "Greece"
+    },
+
+    {
+        "categoria": "Historia",
+        "question": "Marie Antoinette was queen of which country?",
+         "optionA": "she was never queen",
+         "optionB": "France",
+         "optionC": "Netherlands",
+         "optionD": "United Kingdom",
+         "answer": "France"
+    },
+
+    {
+        "categoria": "Geografía",
+        "question": "What continent is India on?",
+        "optionA": "Oceanía",
+        "optionB": "Antarctica",
+        "optionC": "América",
+        "optionD": "Asia",
+        "answer": "Asia"
+    },
+
+    {
+        "categoria": "Geografía",
+        "question": "What is the capital of germany?",
+        "optionA": "Frankfurt",
+        "optionB": "Múnich",
+        "optionC": "Berlín",
+        "optionD": "Dublín",
+        "answer": "Berlín"
+    },
+
+    {
+        "categoria": "Geografía",
+        "question": "Where is the monument to the middle of the world?",
+        "optionA": "Bogotá",
+        "optionB": "Quito",
+        "optionC": "Lima",
+        "optionD": "Manaos",
+        "answer": "Quito"
+    },
+
+    {
+        "categoria": "Deportes",
+        "question": "In which of these sports is there no referee?",
+        "optionA": "Ultímate",
+        "optionB": "Football",
+        "optionC": "Basketball",
+        "optionD": "Volleyball",
+        "answer": "Ultímate"
+    },
+
+    {
+        "categoria": "Deportes",
+        "question": "What is the country of origin of the soccer player Lionel Messi?",
+        "optionA": "Spain",
+        "optionB": "Argentina",
+        "optionC": "Brazil",
+        "optionD": "Chile",
+        "answer": "Argentina"
+    },
+
+    {
+        "categoria": "Matemática",
+        "question": "Calculate these three threes 33-3",
+        "optionA": "29",
+        "optionB": "28",
+        "optionC": "31",
+        "optionD": "30",
+        "answer": "30"
+    },
+
+    {
+        "categoria": "Matemática",
+        "question": "Find these four nines (99-9) / 9",
+        "optionA": "10",
+        "optionB": "9",
+        "optionC": "8",
+        "optionD": "7",
+        "answer": "10"
+    },
+    {
+        "categoria": "Matemática",
+        "question": "π (Pi)",
+        "optionA": "1,414",
+        "optionB": "2.232",
+        "optionC": "1.736",
+        "optionD": "3.141",
+        "answer": "3.141"
+    },
+    {
+        "categoria": "Ingles",
+        "question": "¿How do you write the number 73?",
+        "optionA": "Thirty-seventh",
+        "optionB": "Seventy-third",
+        "optionC": "Seventy-sixth",
+        "optionD": "Sixty-seventh",
+        "answer": "Seventy-third"
+    },
+    {
+        "categoria": "Ingles",
+        "question": "She likes to read ... at school",
+        "optionA": "Journals",
+        "optionB": "Newspaper",
+        "optionC": "Notebook",
+        "optionD": "Books",
+        "answer": "Books"
+    },
+    {
+        "categoria": "Ingles",
+        "question": "The color 'Blue' with 'Yellow' we get ...",
+        "optionA": "Red",
+        "optionB": "Purple ",
+        "optionC": "Green",
+        "optionD": "Gray",
+        "answer": "Green"
+    }
+]
